@@ -35,4 +35,8 @@
 | git commit -m "some message" | commits those changes to a branch |
 | git push | adds your changes to the remote repo |
 
+## Git Workflow:
+![](https://res.cloudinary.com/hy4kyit2a/f_auto,fl_lossy,q_70/learn/projects/develop-app-with-salesforce-cli-and-source-control/add-salesforce-dx-project-to-source-control/images/bf546ec3acd964673bf5f6302125fd93_step-4-github-and-git-clones.png)
+
+## Example of Branching:
 ![](https://www.nobledesktop.com/image/gitresources/git-branches-merge.png)
