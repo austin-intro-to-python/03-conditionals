@@ -34,3 +34,5 @@
 | git add . | adds all your changes to the local repo |
 | git commit -m "some message" | commits those changes to a branch |
 | git push | adds your changes to the remote repo |
+
+![](https://www.nobledesktop.com/image/gitresources/git-branches-merge.png)
